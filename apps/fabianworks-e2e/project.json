@@ -1,0 +1,10 @@
+{
+  "name": "fabianworks-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/fabianworks-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["fabianworks"],
+  "// targets": "to see all targets run: nx show project fabianworks-e2e --web",
+  "targets": {}
+}
